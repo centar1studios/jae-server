@@ -1,1 +1,43 @@
+Create the dashboard
+Create Centari Studios website
+Create Discord bot
+Create cyber security like thing for router similar to how bitdefender works. Like, I wanna make smth like it that actually works similarly to portmaster as well.
+Create a VMware like software within my site like virus total
+PiHole
+WireGuard vpn server
 
+THE GOAL IS TO GET RID OF PAID CYBERSECURITY THINGS
+
+USE THIS
+https://dev.to/dailytadpole/how-to-setup-a-secure-ubuntu-home-server-a-complete-guide-5be7
+
+For dashboard, try to make smth like this 
+https://github.com/wqlfz/Ubuntu-Linux-Dashboard
+
+If possible, use the cams I have for a better home security interface 
+
+A cloud server, hopefully, if it doesn't eat my RAM and cause my laptop to combust - am seeing peeps on reddit say that nextcloud is a must
+
+There is also this helpful thingy 
+https://linuxvox.com/blog/what-all-can-i-do-with-ubuntu/
+
+Learn the following, and try to master em:
+1. HTML
+2. CSS
+3. Python
+4. JavaScript
+5. Powershell (Shell Scripting?)
+6. Ruby
+7. PHP (though idk but I shall)
+8. SQL
+9. C++
+10. Perl
+11. Rust
+12. Assembly
+13. Bash
+14. ANYTHING LINUX :>
+
+GREAT RESOURCES (Fweeee)
+https://www.freecodecamp.org/news/
+
+USE KHAN ACADEMY TO LEARN!!!! NO VIBE CODING ANY LONGER!!!!!!
